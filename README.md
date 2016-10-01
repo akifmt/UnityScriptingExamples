@@ -1,7 +1,8 @@
 ## Unity Scripting Examples
 ###BEGINNER GAMEPLAY SCRIPTING
 
-[1. Scripts as Behaviour Components](1-Beginner/1. Scripts as Behaviour Components)
+
+1. [Scripts as Behaviour Components](1-Beginner/1. Scripts as Behaviour Components)
 2. Variables and Functions
 3. Conventions and Syntax
 4. C# vs JS syntax
