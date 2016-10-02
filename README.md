@@ -4,7 +4,7 @@
 1. [Scripts as Behaviour Components](1-Beginner/1. Scripts as Behaviour Components)
 2. [Variables and Functions](1-Beginner/2. Variables and Functions)
 3. [Conventions and Syntax](1-Beginner/3. Conventions and Syntax)
-4. [C# vs JS syntax](1-Beginner/4. C# vs JS syntax)
+4. [C# vs JS syntax](1-Beginner/4. C%23%20vs JS syntax)
 5. [IF Statements](1-Beginner/5. IF Statements)
 6. Loops
 7. Scope and Access Modifiers
