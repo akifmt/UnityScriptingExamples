@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Enabling and Disabling Components.CSharp", "11. Enabling and Disabling Components.CSharp.csproj", "{E8C6D388-1401-47CC-A59C-F5778335D716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C6D388-1401-47CC-A59C-F5778335D716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C6D388-1401-47CC-A59C-F5778335D716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C6D388-1401-47CC-A59C-F5778335D716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C6D388-1401-47CC-A59C-F5778335D716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
