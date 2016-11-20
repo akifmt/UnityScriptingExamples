@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Linear Interpolation.CSharp", "15. Linear Interpolation.CSharp.csproj", "{DDD3B98B-AA18-EF6C-C149-B1B497E92759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD3B98B-AA18-EF6C-C149-B1B497E92759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD3B98B-AA18-EF6C-C149-B1B497E92759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD3B98B-AA18-EF6C-C149-B1B497E92759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD3B98B-AA18-EF6C-C149-B1B497E92759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
