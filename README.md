@@ -1,33 +1,33 @@
 ## Unity Scripting Examples
 ###BEGINNER GAMEPLAY SCRIPTING
 
-1. [Scripts as Behaviour Components](1-Beginner/1. Scripts as Behaviour Components)
-2. [Variables and Functions](1-Beginner/2. Variables and Functions)
-3. [Conventions and Syntax](1-Beginner/3. Conventions and Syntax)
-4. [C# vs JS syntax](1-Beginner/4. C%23%20vs JS syntax)
-5. [IF Statements](1-Beginner/5. IF Statements)
-6. Loops
-7. Scope and Access Modifiers
-8. Awake and Start
-9. Update and FixedUpdate
-10. Vector Maths
-11. Enabling and Disabling Components
-12. Activating GameObjects
-13. Translate and Rotate
-14. Look At
-15. Linear Interpolation
-16. Destroy
-17. GetButton and GetKey
-18. GetAxis
-19. OnMouseDown
-20. GetComponent
-21. Delta Time
-22. Data Types
-23. Classes
-24. Instantiate
-25. Arrays
-26. Invoke
-27. Enumerations
-28. Switch Statements
+01. [Scripts as Behaviour Components](1-Beginner/01. Scripts as Behaviour Components)
+02. [Variables and Functions](1-Beginner/02. Variables and Functions)
+03. [Conventions and Syntax](1-Beginner/03. Conventions and Syntax)
+04. [C# vs JS syntax](1-Beginner/04. C%23%20vs JS syntax)
+05. [IF Statements](1-Beginner/05. IF Statements)
+06. [Loops](1-Beginner/06. Loops)
+07. [Scope and Access Modifiers](1-Beginner/07. Scope and Access Modifiers)
+08. [Awake and Start](1-Beginner/08. Awake and Start)
+09. [Update and FixedUpdate](1-Beginner/09. Update and FixedUpdate)
+10. [Vector Maths](1-Beginner/10. Vector Maths)
+11. [Enabling and Disabling Components](1-Beginner/11. Enabling and Disabling Components)
+12. [Activating GameObjects](1-Beginner/12. Activating GameObjects)
+13. [Translate and Rotate](1-Beginner/13. Translate and Rotate)
+14. [Look At](1-Beginner/14. Look At)
+15. [Linear Interpolation](1-Beginner/15. Linear Interpolation)
+16. [Destroy](1-Beginner/16. Destroy)
+17. [GetButton and GetKey](1-Beginner/17. GetButton and GetKey)
+18. [GetAxis](1-Beginner/18. GetAxis)
+19. [OnMouseDown](1-Beginner/19. OnMouseDown)
+20. [GetComponent](1-Beginner/20. GetComponent)
+21. [Delta Time](1-Beginner/21. Delta Time)
+22. [Data Types](1-Beginner/22. Data Types)
+23. [Classes](1-Beginner/23. Classes)
+24. [Instantiate](1-Beginner/24. Instantiate)
+25. [Arrays](1-Beginner/25. Arrays)
+26. [Invoke](1-Beginner/26. Invoke)
+27. [Enumerations](1-Beginner/27. Enumerations)
+28. [Switch Statements](1-Beginner/28. Switch Statements)
 
 **Important:** Examples are application of official Unity Tutorials in [this link](https://unity3d.com/learn/tutorials/topics/scripting).
